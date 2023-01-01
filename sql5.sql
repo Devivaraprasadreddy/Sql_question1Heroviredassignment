@@ -1,0 +1,1 @@
+select distinct(Job_name) from Employee.Employee_Details;
